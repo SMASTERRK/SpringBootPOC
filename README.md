@@ -17,6 +17,7 @@ The Application embedded with tomcat servier
 To start an application -> Run it as Java Application
 
 ==========================================================================================================================================
+
 2019-09-07 19:26:58.502  INFO 3620 --- [           main] c.s.rest.SpringBootDemoApplication       : Starting SpringBootDemoApplication on Compaq with PID 3620 (started by Ram Kumar in E:\Projects - 2019\SpringBootPOC)
 ...
 2019-09-07 19:27:02.130  INFO 3620 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
